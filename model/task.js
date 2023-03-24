@@ -1,4 +1,3 @@
-const { string } = require('i/lib/util')
 let mongoose = require('mongoose')
 
 let taskSchema = new mongoose.Schema(
